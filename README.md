@@ -1,2 +1,0 @@
-# editoraHQsBR
-Comic site
